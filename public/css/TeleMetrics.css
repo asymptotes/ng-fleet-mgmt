@@ -1,0 +1,10 @@
+.OK{
+    background-color: greenyellow;
+}
+.OFFLINE{
+    background-color: orangered;
+}
+.clsTable{
+    border:1px solid burlywood;
+    width: 700px;
+}
